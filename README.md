@@ -1,5 +1,3 @@
-### Welcome to my madness :leaves:  
-
 # I'm Rafael Velazco
 
 I am a frontend developer on the way to becoming a full stack.
